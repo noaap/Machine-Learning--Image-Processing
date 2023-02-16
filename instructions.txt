@@ -1,0 +1,20 @@
+e sure to edit the two command line arguments as desired: --video and --tracker .
+
+If you have downloaded the source code + videos associated with this tutorial, the available arguments for --video include the following video files:
+
+american_pharoah.mp4
+dashcam_boston.mp4
+drone.mp4
+nascar_01.mp4
+nascar_02.mp4
+race.mp4
+…and feel free to experiment with your own videos or other videos you find online!
+The available arguments for --tracker include:
+
+csrt
+kcf
+boosting
+mil
+tld
+medianflow
+mosse
